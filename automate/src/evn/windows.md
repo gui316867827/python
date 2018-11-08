@@ -9,7 +9,7 @@
 		然后找到path变量，并在变量值中添加 #### %Chrome_home% 并以;隔开  
 	检测：在dos窗口运行chrome能够开启chrome就成功了
 	
-- 下载chromeDriver
+- 下载chromeDriver  
 	1、查看chrome版本：  
 		帮助->关于chrome  
 		![chrome版本查看](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/chrome_version.jpg)  
