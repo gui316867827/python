@@ -9,5 +9,5 @@
 
 ### 2、将chromeDriver移动到/usr/bin目录，并赋予所有用户使用权限
 	sudo mv chromedriver /usr/bin
-	sudo chomod +x /usr/bin/chromedriver
+	sudo chmod +x /usr/bin/chromedriver
 
