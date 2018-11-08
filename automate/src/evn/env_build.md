@@ -1,6 +1,6 @@
-##python环境搭建+select+chromeDriver
+## python环境搭建+select+chromeDriver
 
-###[python官方网站](https://www.python.org/)
+### [python官方网站](https://www.python.org/)
 
 #### 安装包下载与python运行环境搭建
 
@@ -13,7 +13,7 @@
 
 - windows傻瓜式安装(注意一些软件安装的习惯，尽量分出磁盘区间来安装环境以及工作区间)
 	然后执行python -V 命令查看当前的python版本(图片仅供参考)
-		！[img](/img/python-version.jpg)
+		![img](/img/python-version.jpg)
 
 #### 
 	
