@@ -11,6 +11,7 @@
 	
 - 下载chromeDriver
 	1、查看chrome版本：  
+		帮助->关于chrome  
 		[chrome版本查看](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/chrome_version.jpg)  
 	2、找到相应的chromeDriver驱动(windows系统下载的驱动包只有32位的驱动，可以用，不会造成影响)
 		[各个版本的驱动下载](http://chromedriver.storage.googleapis.com/index.html)
