@@ -24,7 +24,7 @@
 
 
 ### 3、python安装selenium工具包
-[selenium环境搭建](https://github.com/F-Monkey/python/blob/master/automate/src/evn/selenium.md)
+- [selenium环境搭建](https://github.com/F-Monkey/python/blob/master/automate/src/evn/selenium.md)
 
 
 ### 4、成功执行上述操作之后，基本上就可以愉快的玩耍selenium UI自动化测试了

@@ -8,7 +8,7 @@
 
 - 安装
 
-1.whl文件 ：python install pip-18.1-py2.py3-none-any.whl  
+- 1.whl文件 ：python install pip-18.1-py2.py3-none-any.whl  
 	
-2.压缩包：解压
+- 2.压缩包：解压
 		python setup.py install

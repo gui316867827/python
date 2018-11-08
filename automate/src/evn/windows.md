@@ -10,10 +10,10 @@
 	检测：在dos窗口运行chrome能够开启chrome就成功了
 	
 - 下载chromeDriver  
-	1、查看chrome版本：  
+	- 1、查看chrome版本：  
 		帮助->关于chrome  
 		![chrome版本查看](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/chrome_version.jpg)  
-	2、找到相应的chromeDriver驱动(windows系统下载的驱动包只有32位的驱动，可以用，不会造成影响)  
+	- 2、找到相应的chromeDriver驱动(windows系统下载的驱动包只有32位的驱动，可以用，不会造成影响)  
 		[各个版本的驱动下载](http://chromedriver.storage.googleapis.com/index.html)  
 		[查看chrome对应的驱动版本](http://chromedriver.storage.googleapis.com/2.40/notes.txt)  
 		注：每个包下面都会有notes.txt文件，如果没找到的话可以换个包试试
