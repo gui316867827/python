@@ -1,4 +1,4 @@
-## python环境搭建+select+chromeDriver
+## python环境搭建 + elenium + ChromeDriver
 
 ### [python官方网站](https://www.python.org/)
 
