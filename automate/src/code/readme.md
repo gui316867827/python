@@ -3,5 +3,3 @@
 这里建议可以去w3c学习一下html、css、以及js方面的知识
 
 传送门：[w3c school](http://www.w3school.com.cn/)
-
-	
