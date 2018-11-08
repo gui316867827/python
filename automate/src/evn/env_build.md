@@ -11,9 +11,9 @@
 - linux
 	- 因为在ubuntu系统上测试，自带的python环境，python环境的搭建就省略了
 
-- windows傻瓜式安装(注意一些软件安装的习惯，尽量分出磁盘区间来安装环境以及工作区间),<\br>
-	执行python -V 命令查看当前的python版本(图片仅供参考),<\br>
-		![img](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/python-version.jpg)
+- windows傻瓜式安装(注意一些软件安装的习惯，尽量分出磁盘区间来安装环境以及工作区间),  
+	执行python -V 命令查看当前的python版本(图片仅供参考),  
+	![img](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/python-version.jpg)
 
 #### 
 	
