@@ -5,6 +5,6 @@
 	安装好之后，执行命令 __pip install selenium__
 
 2.离线安装包
-	离线安装包下载[https://github.com/SeleniumHQ/selenium/tree/master/py](https://github.com/SeleniumHQ/selenium/tree/master/py)
+	离线安装包下载[https://github.com/SeleniumHQ/selenium/tree/master/py](https://github.com/SeleniumHQ/selenium/tree/master/py)  
 	使用git下载源码之后，切到盘符，  
 	__python setup.py install__
