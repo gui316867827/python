@@ -16,9 +16,6 @@
 	![img](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/python-version.jpg)
 
 #### chrome与chromeDriver安装(因为本人习惯用chrome浏览器，大家也可以根据个人习惯选择自己喜欢的浏览器，PS：不要用IE！！！)
-	- windows: [windows](https://github.com/F-Monkey/python/blob/master/automate/src/evn/windows.md)
-	- linux: [linux-ubuntu](https://github.com/F-Monkey/python/blob/master/automate/src/evn/linux.md)
-	
-
-	
+	- windows: ![windows](https://github.com/F-Monkey/python/blob/master/automate/src/evn/windows.md)
+	- linux: ![linux-ubuntu](https://github.com/F-Monkey/python/blob/master/automate/src/evn/linux.md)
 	
