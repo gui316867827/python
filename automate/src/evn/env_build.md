@@ -2,7 +2,7 @@
 
 ### [python官方网站](https://www.python.org/)
 
-#### 安装包下载与python运行环境搭建
+### 安装包下载与python运行环境搭建
 
 - windows
 	- 在线安装包: [https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64-webinstall.exe](https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64-webinstall.exe)	
@@ -15,7 +15,9 @@
 	执行python -V 命令查看当前的python版本(图片仅供参考),  
 	![img](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/python-version.jpg)
 
-#### chrome与chromeDriver安装
+
+### chrome与chromeDriver安装
+
 **大家也可以根据自己喜欢的浏览器跟相应的驱动下载，不推荐IE**
 - [windows](https://github.com/F-Monkey/python/blob/master/automate/src/evn/windows.md)	
 - [linux-ubuntu](https://github.com/F-Monkey/python/blob/master/automate/src/evn/linux.md)
