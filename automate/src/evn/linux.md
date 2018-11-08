@@ -1,6 +1,6 @@
 ## ubuntu系统下selenium + chromeDriver环境搭建
 
-#### 惭愧的是。。。本人目前就知道linux在线搭建环境，所以下列的惭怍请保证你的linux系统可以正常访问网页
+#### 惭愧的是。。。本人目前就知道linux在线搭建环境，所以下列的操作请保证你的linux系统可以正常访问外网
 
 ### 1、chrome安装
 	sudo apt-get install thunderbird-gnome-support
