@@ -6,7 +6,7 @@
 		计算机->高级系统设置->环境变量  
 		新建系统变量：变量名 Chrome_home 变量值：C:\Program Files (x86)\Google\Chrome\Application  
 		(大家以自己实际的chrome安装地址为准)  
-		然后找到path变量，并在变量值中添加  ** %Chrome_home% ** 并以 ** ; ** 隔开  
+		然后找到path变量，并在变量值中添加  **%Chrome_home%** 并以  __;__ 隔开  
 	检测：在dos窗口运行chrome能够开启chrome就成功了
 	
 - 下载chromeDriver  
