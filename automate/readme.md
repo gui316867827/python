@@ -21,3 +21,8 @@
 **大家也可以根据自己喜欢的浏览器跟相应的驱动下载，不推荐IE**
 - [windows](https://github.com/F-Monkey/python/blob/master/automate/src/evn/windows.md)	
 - [linux-ubuntu](https://github.com/F-Monkey/python/blob/master/automate/src/evn/linux.md)
+
+
+### 3、python安装selenium工具包
+[selenium环境搭建](https://github.com/F-Monkey/python/blob/master/automate/src/evn/selenium.md)
+	
