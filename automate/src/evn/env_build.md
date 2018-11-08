@@ -15,7 +15,7 @@
 	执行python -V 命令查看当前的python版本(图片仅供参考),  
 	![img](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/python-version.jpg)
 
-#### chrome与chromeDriver安装  
-	因为本人习惯用chrome浏览器，大家也可以根据个人习惯选择自己喜欢的浏览器，PS：不要用IE！！！
-	* windows: [windows](https://github.com/F-Monkey/python/blob/master/automate/src/evn/windows.md)	
-	* linux-ubuntu: [linux-ubuntu](https://github.com/F-Monkey/python/blob/master/automate/src/evn/linux.md)
+#### chrome与chromeDriver安装
+	__大家也可以根据自己喜欢的浏览器跟相应的驱动下载，不推荐IE
+* windows: [windows](https://github.com/F-Monkey/python/blob/master/automate/src/evn/windows.md)	
+* linux-ubuntu: [linux-ubuntu](https://github.com/F-Monkey/python/blob/master/automate/src/evn/linux.md)
