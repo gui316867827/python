@@ -17,5 +17,5 @@
 
 #### chrome与chromeDriver安装  
 	因为本人习惯用chrome浏览器，大家也可以根据个人习惯选择自己喜欢的浏览器，PS：不要用IE！！！
-	* [windows](https://github.com/F-Monkey/python/blob/master/automate/src/evn/windows.md)	
-	* [linux](https://github.com/F-Monkey/python/blob/master/automate/src/evn/linux.md)
+	* [windows]: (https://github.com/F-Monkey/python/blob/master/automate/src/evn/windows.md)	
+	* [linux]: (https://github.com/F-Monkey/python/blob/master/automate/src/evn/linux.md)
