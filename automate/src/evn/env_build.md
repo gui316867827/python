@@ -5,15 +5,15 @@
 #### 安装包下载与python运行环境搭建
 
 - windows
-	- 在线安装包[https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64-webinstall.exe](https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64-webinstall.exe)	
-	- 离线安装包[https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe](https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe)
+	- 在线安装包:[https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64-webinstall.exe](https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64-webinstall.exe)	
+	- 离线安装包:[https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe](https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe)
 
 - linux
 	- 因为在ubuntu系统上测试，自带的python环境，python环境的搭建就省略了
 
-- windows傻瓜式安装(注意一些软件安装的习惯，尽量分出磁盘区间来安装环境以及工作区间)
-	然后执行python -V 命令查看当前的python版本(图片仅供参考)
-		![img](/img/python-version.jpg)
+- windows傻瓜式安装(注意一些软件安装的习惯，尽量分出磁盘区间来安装环境以及工作区间),<\br>
+	执行python -V 命令查看当前的python版本(图片仅供参考),<\br>
+		![img](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/python-version.jpg)
 
 #### 
 	
