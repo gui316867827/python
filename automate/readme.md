@@ -28,4 +28,4 @@
 
 
 ### 4、成功执行上述操作之后，基本上就可以愉快的玩耍selenium UI自动化测试了
-- [selenium入门](https://github.com/F-Monkey/python/tree/master/automate/src/code)
+- [开始](https://github.com/F-Monkey/python/tree/master/automate/src/code)
