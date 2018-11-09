@@ -4,6 +4,10 @@
 ![ecplise_marketplace](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/eclipse1.jpg)
 ![pydev_install](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/pydev_install.jpg)
 
+
+
+=================================================================
+
 - 2、pydev引入python环境
 	如图：__windows --> Preference --> Pydev --> intercepters --> python intercepter__  
 ![Window Preference](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/eclipse2.jpg)
