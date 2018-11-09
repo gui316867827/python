@@ -1,7 +1,7 @@
 # eclipse python插件安装以及环境搭建
 - 1、pydev插件安装
 	如图：  __help --> eclipse Marketplace --> find 'pydev' -->installed__  
-![ecplise_marketplace](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/eclipse1.jpg)
+![ecplise_marketplace](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/eclipse1.jpg)  
 ![pydev_install](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/pydev_install.jpg)
 
 
