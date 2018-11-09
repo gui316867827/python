@@ -9,6 +9,6 @@
 =================================================================
 
 - 2、pydev引入python环境
-	如图：__windows --> Preference --> Pydev --> intercepters --> python intercepter__  
+	如图：__windows --> Preference --> Pydev --> Interpreters --> python interpreter__  
 ![Window Preference](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/eclipse2.jpg)
 ![python intercepter configuration](https://github.com/F-Monkey/python/blob/master/automate/src/evn/img/Pydev_conf.jpg)
