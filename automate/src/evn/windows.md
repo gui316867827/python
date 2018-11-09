@@ -7,7 +7,7 @@
 		新建系统变量：变量名 Chrome_home 变量值：C:\Program Files (x86)\Google\Chrome\Application  
 		(大家以自己实际的chrome安装地址为准)  
 		然后找到path变量，并在变量值中添加  **%Chrome_home%** 并以  __;__ 隔开  
-	检测：在dos窗口运行chrome能够开启chrome就成功了
+	检测：在dos窗口运行chrome能够
 	
 - 下载chromeDriver  
 	- 1、查看chrome版本：  
